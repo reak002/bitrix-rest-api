@@ -3,8 +3,8 @@
   "description": "Библиотека для создания REST API в битриксе",
   "type": "library",
   "require": {
-    "php": ">=8.2",
-    "slim/psr7": "dev-master",
+    "php": ">=8.1",
+    "slim/psr7": "1.7.1",
     "slim/slim": "^4.14",
     "php-di/php-di": "^7.0.9",
     "vsavritsky/bitrix-rest-api-cache": "^0.1.4",
