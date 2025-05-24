@@ -27,7 +27,7 @@
             "type": "github",
             "url": "git@github.com:reak002/bitrix-rest-api-cache.git"
         }
-    }
+    },
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
